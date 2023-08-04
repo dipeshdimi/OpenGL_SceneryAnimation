@@ -18,7 +18,7 @@ This C++ program employs the OpenGL library to create an animated scenery with v
 
 ## Controls
 
-Press d or D to switch to daytime mode.
-Press n or N to switch to nighttime mode.
-Press c or C to clear clouds.
-Press r or R to activate rainy clouds and rain.
+- Press d or D to switch to daytime mode.
+- Press n or N to switch to nighttime mode.
+- Press c or C to clear clouds.
+- Press r or R to activate rainy clouds and rain.
